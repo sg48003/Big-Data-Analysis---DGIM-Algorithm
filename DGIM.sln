@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGIM", "DGIM\DGIM.csproj", "{C857E62B-2E5E-4F52-ACB9-20FE56015E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGIM_2", "DGIM_2\DGIM_2.csproj", "{47B66863-9CE4-40EC-B69E-B8DA5DABF964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C857E62B-2E5E-4F52-ACB9-20FE56015E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C857E62B-2E5E-4F52-ACB9-20FE56015E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C857E62B-2E5E-4F52-ACB9-20FE56015E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C857E62B-2E5E-4F52-ACB9-20FE56015E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B66863-9CE4-40EC-B69E-B8DA5DABF964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B66863-9CE4-40EC-B69E-B8DA5DABF964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B66863-9CE4-40EC-B69E-B8DA5DABF964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B66863-9CE4-40EC-B69E-B8DA5DABF964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4368D351-0528-4EF2-8BC2-70200DE8A0EC}
+	EndGlobalSection
+EndGlobal
